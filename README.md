@@ -1,5 +1,5 @@
 # CalculatorApp
- created a simple arithmetic calculator with using  Java classes, methods, and objects 
+ created a simple arithmetic calculator with using  Javascript, methods, and objects 
  
 ## OverView
 In this project, I used classes, methods, and objects to create a simple arithmetic calculator that will be able to:
