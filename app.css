@@ -1,6 +1,16 @@
+body {
+    background-color: black;
+}
+
+.title {
+   color: #25a8e0;
+   font-family: 'Lobster Two', cursive;
+   font-size: 100px;
+}
+
 .container {
 
-    border: 1px solid #cccccc;
+    border: 1px solid rgb(65, 159, 217);
 
     box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
 
@@ -17,6 +27,7 @@
     width: 450px;
 
     height: 400px;
+    background-color: darkgray;
 
 }
 .keys {
@@ -42,7 +53,7 @@
 
     border-radius: 3px;
 
-    border: 1px solid #c4c4c4;
+    border: 1px solid  #25a8e0;
 
     background-color: transparent;
 
@@ -64,16 +75,16 @@ button:hover {
 }
 .operator {
 
-    color: #fff;
+    color: black;
 
-    background-color: #eebb24;
+    background-color:  #25a8e0;
 
 }
 .clear {
 
-    background-color: #f0595f;
+    background-color: black;
 
-    border-color: #b0353a;
+    border-color:  #25a8e0;
 
     color: #fff;
 
@@ -93,7 +104,7 @@ clear:hover {
 
     border-color: #25a8e0;
 
-    color: #fff;
+    color: black;
 
 }
 
