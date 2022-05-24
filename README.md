@@ -12,3 +12,5 @@ In this project, I used classes, methods, and objects to create a simple arithme
 
 ---
 
+[![Calc-App-Screen-Shot.png](https://i.postimg.cc/tgy4vKMw/Calc-App-Screen-Shot.png)](https://postimg.cc/RWsmND9L)
+
